@@ -1,6 +1,7 @@
 neuro42 coding challenge
 
 How to download/compile:
+
 The compiled executable is already included in this repo so you don't have to compile it, but if you want to compile it you will need gcc installed. Note: the executable was compiled on Windows so it may not work on Linux or Mac. 
 
 Steps:
